@@ -316,7 +316,7 @@ nav {
   text-align: center;
   height: 80vh;
 
-  background: #cccccc url("../images/trainer-1.jpg") no-repeat right center;
+  background: #cccccc url("../images/trainer1.jpg") no-repeat right center;
 
 
   padding: 0 20px;
@@ -575,22 +575,22 @@ nav {
 
 
 .cashmere .child1{
-   background-image: url(../Images/download\ \(14\).jpg);
+   background-image: url(../images/download\ \(14\).jpg);
    background-size: cover;  
 
 }
 .cashmere .child2{
-   background-image: url(../Images/malek.jpg);
+   background-image: url(../images/malek.jpg);
    background-size: cover;  
 
 }
 .cashmere .child3{
-   background-image: url(../Images/6daec557-ecd3-4675-9f7c-c6e3aa07a2ab.jpg);
+   background-image: url(../images/6daec557-ecd3-4675-9f7c-c6e3aa07a2ab.jpg);
    background-size: cover;  
 
 }
 .cashmere .child4{
-   background-image: url(../Images/Small\ Boy\ In\ The\ Jungle.jpg);
+   background-image: url(../images/Small\ Boy\ In\ The\ Jungle.jpg);
    background-size: cover;  
 
 }
@@ -606,7 +606,7 @@ nav {
    position: absolute;
    top:0;
    left: 0;
-   background-image: url(../Images/jaja.jpg);
+   background-image: url(../images/jaja.jpg);
    background-size: cover;
    transform: rotateY(180deg);
    backface-visibility: hidden;
@@ -841,22 +841,22 @@ nav {
 
 
 .may .child1{
-   background-image: url(../Images/download\ \(19\).jpg);
+   background-image: url(../images/download\ \(19\).jpg);
    background-size: cover;  
 
 }
 .may .child2{
-   background-image: url(../Images/6.jpg);
+   background-image: url(../images/6.jpg);
    background-size: cover;  
 
 }
 .may .child3{
-   background-image: url(../Images/lsjdkj.jpg);
+   background-image: url(../images/lsjdkj.jpg);
    background-size: cover;  
 
 }
 .may .child4{
-   background-image: url(../Images/download\ \(20\).jpg);
+   background-image: url(../images/download\ \(20\).jpg);
    background-size: cover;  
 
 }
@@ -868,7 +868,7 @@ nav {
    position: absolute;
    top:0;
    left: 0;
-   background-image: url(../Images/Effortless\ Old\ Money\ Aesthetic\ for\ Men_\ Classic\,\ Clean\,\ Refined.jpg);
+   background-image: url(../images/Effortless\ Old\ Money\ Aesthetic\ for\ Men_\ Classic\,\ Clean\,\ Refined.jpg);
    background-size: cover;
    transform: translateY(-380px);
    opacity: 0;
